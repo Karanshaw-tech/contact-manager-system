@@ -13,7 +13,7 @@ A modern and responsive contact management web application built with React.
 - CSS / Tailwind (if used)
 - JavaScript
 
-## Installations
+## Installation
 1. Clone the repo
 2. Run npm install
 3. Run npm start
